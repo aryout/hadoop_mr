@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipleOutput/MultipleOutput.iml" filepath="$PROJECT_DIR$/MultipleOutput/MultipleOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_partion/custom_partion.iml" filepath="$PROJECT_DIR$/custom_partion/custom_partion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groupcomparator/groupcomparator.iml" filepath="$PROJECT_DIR$/groupcomparator/groupcomparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop_mr.iml" filepath="$PROJECT_DIR$/hadoop_mr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputformat/inputformat.iml" filepath="$PROJECT_DIR$/inputformat/inputformat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jointest/jointest.iml" filepath="$PROJECT_DIR$/jointest/jointest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serializebean/serializebean.iml" filepath="$PROJECT_DIR$/serializebean/serializebean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two_mrjob/two_mrjob.iml" filepath="$PROJECT_DIR$/two_mrjob/two_mrjob.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="custom_partion" />
+        <module name="groupcomparator" />
+        <module name="inputformat" />
+        <module name="jointest" />
+        <module name="MultipleOutput" />
+        <module name="serializebean" />
+        <module name="two_mrjob" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="custom_partion" target="1.5" />
+      <module name="groupcomparator" target="1.5" />
+      <module name="hadoop_mr" target="1.5" />
+      <module name="inputformat" target="1.5" />
+      <module name="jointest" target="1.5" />
+      <module name="MultipleOutput" target="1.5" />
+      <module name="serializebean" target="1.5" />
+      <module name="two_mrjob" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
